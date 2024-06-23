@@ -17,7 +17,7 @@ FreeAPS X uses original JavaScript files of oref0 and provides a user interface 
 ## Supported pumps
 
 To control an insulin pump FreeAPS X uses modified [rileylink_ios](https://github.com/ps2/rileylink_ios) library, thus supporting the same pump list:
-
+  
 - Medtronic 515 or 715 (any firmware)
 - Medtronic 522 or 722 (any firmware)
 - Medtronic 523 or 723 (firmware 2.4 or lower)
