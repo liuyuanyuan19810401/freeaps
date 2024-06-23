@@ -5,7 +5,7 @@ FreeAPS X - an artificial pancreas system for iOS based on [OpenAPS Reference](h
 FreeAPS X uses original JavaScript files of oref0 and provides a user interface (UI) to control and set up the system
 
 ## Documentation
-
+  
 [Overview & Onboarding Tips on Loop&Learn](https://www.loopandlearn.org/freeaps-x/)
 
 [OpenAPS documentation](https://openaps.readthedocs.io/en/latest/)
